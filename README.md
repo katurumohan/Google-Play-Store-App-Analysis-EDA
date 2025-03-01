@@ -12,3 +12,8 @@ Programming Language: Python 🐍
 Tools & Libraries: Jupyter Notebook, Pandas, NumPy, Matplotlib
 Dataset: Google Play Store Apps (Kaggle)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Key Findings
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+.Identified trends in popular app categories, pricing models, and rating distributions.
+.Examined the relationship between app reviews, installs, and average ratings.
+.Visualized key insights to understand what makes an app successful on the Play Store.
