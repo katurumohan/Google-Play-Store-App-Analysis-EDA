@@ -31,3 +31,16 @@ Installation & Setup
   https://github.com/Visanthreddy/Google-Paly-Store-Project/blob/main/Google%20Paly%20Store%20Project%20.ipynb
 2.Navigate to the project folder:
   cd Google-Play-Store-Apps-Analysis-EDA-
+  3.Install dependencies:
+  pip install -r requirements.txt
+  4.Open the Jupyter Notebook:
+  jupyter notebook Google-Play-Store-Apps-Analysis-EDA-.ipynb
+  5.Run the analysis and explore insights!
+Next Steps
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Further analysis using Machine Learning (predictive modeling on app success).
+Expand dataset to include more recent Play Store data for trend comparison.
+License
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+GitHub Repository Link
+--------------------------------------------------------------------------------------------------------------------------------------------
