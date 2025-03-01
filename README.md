@@ -30,9 +30,13 @@ Installation & Setup
  git clone https://github.com/Visanthreddy/Google-Play-Store-App-Analysis-EDA.git
  ```
 2.Navigate to the project folder:
-  cd Google-Play-Store-Apps-Analysis-EDA-
+   ```bash
+   cd D:\git hub clone
+   ```
   3.Install dependencies:
-  pip install -r requirements.txt
+  ```bash
+   pip install -r requirements.txt
+   ```
   4.Open the Jupyter Notebook:
   jupyter notebook Google-Play-Store-Apps-Analysis-EDA-.ipynb
   5.Run the analysis and explore insights!
