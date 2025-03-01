@@ -38,7 +38,7 @@ Installation & Setup
    pip install -r requirements.txt
    ```
   4.Open the Jupyter Notebook:
-  jupyter notebook Google-Play-Store-Apps-Analysis-EDA-.ipynb
+  jupyter notebook https://github.com/Visanthreddy/Google-Play-Store-App-Analysis-EDA/tree/mainipynb
   5.Run the analysis and explore insights!
 Next Steps
 -----------------------------------------------------------------------------------------------------------------------------------------------------
