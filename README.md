@@ -17,7 +17,7 @@ Google Play Store Apps Analysis (EDA) 📊
 
 ## Project Structure  
 📂 Google-Play-Store-Apps-Analysis-EDA- 
- ├── 📄 Google_Play_Store_Project_Partipynb  # Jupyter Notebook with code & analysis  
+ ├── 📄 Google Paly Store Project .ipynb  # Jupyter Notebook with code & analysis  
  ├── 📄   # Jupyter Notebook with code & analysis   
  ├── 📄 googleplaystore.csv  # Raw Dataset
  ├── 📄 README.md  #  Project Documentation  
