@@ -28,3 +28,4 @@ Project Structure
 Installation & Setup
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 1.Clone the repository:
+https://github.com/Visanthreddy/Google-Paly-Store-Project/blob/main/Google%20Paly%20Store%20Project%20.ipynb
