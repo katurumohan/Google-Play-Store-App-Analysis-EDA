@@ -38,13 +38,16 @@ Installation & Setup
    pip install -r requirements.txt
    ```
   4.Open the Jupyter Notebook:
+   ```bash
   jupyter notebook https://github.com/Visanthreddy/Google-Play-Store-App-Analysis-EDA/tree/mainipynb
+   ```
   5.Run the analysis and explore insights!
-Next Steps
------------------------------------------------------------------------------------------------------------------------------------------------------
-Further analysis using Machine Learning (predictive modeling on app success).
-Expand dataset to include more recent Play Store data for trend comparison.
-License
------------------------------------------------------------------------------------------------------------------------------------------------------------
-GitHub Repository Link
---------------------------------------------------------------------------------------------------------------------------------------------
+  
+## Next Steps  
+- Further analysis using **Machine Learning** (predictive modeling on app success).  
+- Expand dataset to **include more recent Play Store data** for trend comparison.  
+
+## License  
+This project is for practice purposes. Data is sourced from Kaggle and remains the property of its original creators.  
+
+---
